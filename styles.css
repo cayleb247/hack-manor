@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #2a303f;
+}
+
+body {
+    background-image: url(images/spooky-forest.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
